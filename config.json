@@ -1,0 +1,8 @@
+{
+    "token": "votre token",
+    "prefix": "!",
+    "greeting": {
+        "channel": "727975338918936629",
+        "role": "726777135083290664"
+    }
+}
