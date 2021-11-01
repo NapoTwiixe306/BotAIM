@@ -8,7 +8,7 @@ const Discord = require('discord.js'),
     fs = require('fs')
  
 client.on("ready", () => {
-    console.log("OKE");
+    console.log("OKay Baby");
     client.user.setActivity("https://ai.marketing/fr/campaign/qikjpvl062")
 })
 
