@@ -4,24 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NapoTwiixe306/BotAIM.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "NapoTwiixe",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NapoTwiixe306/BotAIM/issues"
-  },
-  "homepage": "https://github.com/NapoTwiixe306/BotAIM#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "humanize-duration": "^3.27.0",
     "moment": "^2.29.1",
-    "parse-duration": "^1.0.2"
+    "parse-duration": "^1.0.0",
+    "yarn": "^1.22.10"
   }
 }
