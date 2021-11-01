@@ -12,7 +12,7 @@ client.on("ready", () => {
     client.user.setActivity("https://ai.marketing/fr/campaign/qikjpvl062")
 })
 
-client.login(process.env.TOKEN)
+client.login(config.token)
 client.commands = new Discord.Collection()
 client.db = require('./db.json')
 
