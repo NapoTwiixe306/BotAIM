@@ -20,4 +20,4 @@ jobs:
             git clean -fd
             git pull
             echo ${{ secrets.SSH_PASSWORD }} | sudo -S npm install
-            pm2 restart Bot
+            pm2 restart Papa
