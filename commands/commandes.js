@@ -8,7 +8,7 @@ module.exports = {
         .setDescription('*les commandes sont utilisé avec un ?')
         .setColor('RANDOM')
         .addField('help', 'utile pour avoir de l\'aide sur certaine commandes')
-        .addField('bonjour', 'pour dire bonjour au bot')
+        .addField('bonjour', 'dites bonjour au bot')
         .addField('server-info', 'pour voirs les infos du serv')
         .addField('user-info', 'pour voirs les infos d\'un joueur')
         .addField('role-info', 'pour voirs les infos d\'un role')
